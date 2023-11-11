@@ -23,7 +23,8 @@ body {
 .social-icons {
   padding: 0 40%;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 20%;
 }
 
 .intro {
